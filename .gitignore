@@ -57,6 +57,7 @@ Watch/.setting/*
 Watch/Drivers/*
 Watch/Middlewares/*
 Watch/startup/*
+Watch/Debug/*
 Watch/Inc/*
 !Watch/Inc/main.h
 Watch/Src/*
