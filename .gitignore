@@ -59,6 +59,9 @@ Watch/Middlewares/*
 Watch/startup/*
 Watch/Debug/*
 Watch/Inc/*
+!Watch/Inc/Font.h
+!Watch/Inc/ST7789.h
 !Watch/Inc/main.h
 Watch/Src/*
+!Watch/Src/ST7789.c
 !Watch/Src/main.c
