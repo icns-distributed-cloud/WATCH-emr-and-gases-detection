@@ -1,3 +1,14 @@
+# WATCH-emr-and-gases-detection
+
+## Introduction
+
+### WATCH-emr-and-gases-detection project includes several function added on smart_watch. First, it can detect electric wires by hall_sensor. And also can chect oxygen consentration around smart_watch by o2_sensor. So the following project offers code work of function above.
+
+## Developement Enviornment
+
+- STM32CUBEMX
+- KEIL uVISION5
+
 ## 1. Development project setup
 * Step 1. Share a CubeMX file
 * Step 2. Create "stm-watch" folder
